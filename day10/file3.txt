@@ -1,0 +1,1 @@
+Writing this text inside the file3.Writing this message inside file3.txt using with open as file

@@ -1,0 +1,1 @@
+This text is being written inside the file message.txtThis is second message written using context manager
